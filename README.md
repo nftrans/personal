@@ -47,18 +47,23 @@ More Supporters:
 
 Ana Cunha
 Anna Bida
-Olivia
+Olivia Merquior
+Ottis
 Emi
+Pet
 André Hadadd
 Alexandre Cruz
 Marlus
 Vamoss
 Cris Lopes
+Fernanda Paixão
 Guta Nascimento
 Claudia Mansini
 Cristina Santana
 Juliano Kimura
 Rafael Castañeda
+Shima
+Daoglas
 
 
 
