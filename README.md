@@ -12,6 +12,7 @@ afka - cto-governance wizard
 concil extended
 
 paloma klysis
+pinkalsky
 marcelo wasem
 giulia otouro
 jozé augusto vieira
@@ -55,7 +56,9 @@ André Hadadd
 Alexandre Cruz
 Marlus
 Vamoss
+Becopro
 Cris Lopes
+Gus web3
 Fernanda Paixão
 Guta Nascimento
 Claudia Mansini
@@ -64,7 +67,7 @@ Juliano Kimura
 Rafael Castañeda
 Shima
 Daoglas
-
+Zeugh
 
 
 
